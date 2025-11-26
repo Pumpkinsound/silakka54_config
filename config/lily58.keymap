@@ -65,7 +65,7 @@
 &trans      &kp K_PLAY_PAUSE  &kp K_PREVIOUS     &kp K_NEXT       &trans     &trans                    &kp LEFT_BRACKET  &kp LEFT_BRACE  &kp RIGHT_BRACE  &kp RIGHT_BRACKET  &trans   &trans
 &bt BT_CLR  &trans            &kp C_VOLUME_DOWN  &kp C_VOLUME_UP  &trans     &trans                    &kp LEFT          &kp DOWN_ARROW  &kp UP_ARROW     &kp RIGHT          &trans   &trans
 &trans      &trans            &trans             &trans           &trans     &trans  &trans    &trans  &trans            &trans          &trans           &trans             &trans   &trans
-                                                 &trans           &kp TILDE  &trans  &trans    &trans  &trans            &trans          &trans
+                                                 &trans           &kp TILDE  &to 0   &trans    &trans  &trans            &trans          &trans
             >;
         };
     };
